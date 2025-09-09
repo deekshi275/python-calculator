@@ -9,7 +9,7 @@ Run the calculator from the command line:
 
 ```bash
 python clc.py
-```
+--------------------
 
 Follow the prompts to enter numbers and select operations.
 
