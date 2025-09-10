@@ -7,7 +7,7 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 
 Run the calculator from the command line:
 
-```bash
+'''bash
 python clc.py
 --------------------
 
