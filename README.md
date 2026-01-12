@@ -1,27 +1,28 @@
 # Calculator Project
 
-This project provides a simple calculator implemented in Python (`clc.py`).  
-It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A simple command-line calculator built with Python.  
+This project demonstrates basic Python programming concepts such as functions, conditionals, loops, and input validation.
 
-## U
+The calculator supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 
-Run the calculator from the command line:
+---
 
-'''bash
+## Requirements
+
+- Python 3.x
+
+You can check your Python version using:
+```bash
+python --version
+Installation
+
+Clone or download this repository.
+
+Navigate to the project directory:
+
+cd calculator-project
+
+
+Run the calculator:
+
 python clc.py
---------------------
-
-Follow the prompts to enter numbers and select operations.
-
-## Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Input validation and error handling
-
-## Files
-
-- `clc.py`: Main calculator logic
-- `README.md`: Project
